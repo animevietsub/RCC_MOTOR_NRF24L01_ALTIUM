@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Change Component Footprint: Designator=C1 Old Footprint=Cap-Non-150mil New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C2 Old Footprint=Cap-P-1.5/4 New Footprint=CAP-SMD-0805
+Change Component Comment : Designator=C2 Old Comment=1uF/16V New Comment=104
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=106
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3V Pin=C2-2

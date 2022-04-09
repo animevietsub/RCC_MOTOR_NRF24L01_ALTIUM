@@ -1,0 +1,5 @@
+Added Component: Designator=C17(CAP-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=V_ESPU Pin=C17-2
+Added Member To Class: ClassName=Sheet1 Member=Component C17 106

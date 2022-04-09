@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=V_ESPU Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SS14

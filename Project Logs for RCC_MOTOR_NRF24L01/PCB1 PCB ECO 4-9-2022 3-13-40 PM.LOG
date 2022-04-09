@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+12V Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Member From Class: ClassName=Sheet1 Member=C23
+Change Component Footprint: Designator=C19 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-3.8/6.3
+Change Component Comment : Designator=C19 Old Comment=1uF/16V New Comment=470uF

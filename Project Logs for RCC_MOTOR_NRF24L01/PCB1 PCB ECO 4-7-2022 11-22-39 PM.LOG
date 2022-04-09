@@ -1,0 +1,80 @@
+Added Component: Designator=B1(MTG300_600)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Plated Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLATED_HOLE3.0_PAD6.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=B2(MTG300_600)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Plated Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLATED_HOLE3.0_PAD6.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=B3(MTG300_600)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Plated Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLATED_HOLE3.0_PAD6.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=B4(MTG300_600)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Plated Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/26/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Plated Through Hole: Hole Dia.=3.0mm Pad Dia.=6.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLATED_HOLE3.0_PAD6.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B3-1
+Added Pin To Net: NetName=GND Pin=B4-1
+Added Member To Class: ClassName=Sheet1 Member=Component B1 Plated Hole
+Added Member To Class: ClassName=Sheet1 Member=Component B2 Plated Hole
+Added Member To Class: ClassName=Sheet1 Member=Component B3 Plated Hole
+Added Member To Class: ClassName=Sheet1 Member=Component B4 Plated Hole

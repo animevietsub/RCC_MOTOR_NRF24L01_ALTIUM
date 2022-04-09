@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC19_1 Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Member From Class: ClassName=Sheet1 Member=C19
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC20_1

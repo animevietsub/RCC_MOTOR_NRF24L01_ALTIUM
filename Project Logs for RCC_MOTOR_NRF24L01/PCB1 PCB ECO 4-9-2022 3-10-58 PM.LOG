@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=+12V Pin=D4-2
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Change Component Comment : Designator=C21 Old Comment=1uF/16V New Comment=470uF
+Added Component: Designator=C14(Cap-P-1.5/4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C22(Cap-P-1.5/4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C23(Cap-P-1.5/4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=+12V Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=+12V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Member To Class: ClassName=Sheet1 Member=Component C14 470uF
+Added Member To Class: ClassName=Sheet1 Member=Component C22 470uF
+Added Member To Class: ClassName=Sheet1 Member=Component C23 470uF

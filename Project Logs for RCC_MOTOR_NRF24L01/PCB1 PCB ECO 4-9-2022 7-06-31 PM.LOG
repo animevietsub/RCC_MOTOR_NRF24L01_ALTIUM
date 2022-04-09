@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+3.3V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+3.3V Pin=C12-2
+Change Component Footprint: Designator=C11 Old Footprint=Cap-Non-150mil New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C12 Old Footprint=Cap-Non-150mil New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C13 Old Footprint=Cap-Non-150mil New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C9 Old Footprint=Cap-P-1.5/4 New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C10 Old Footprint=Cap-P-1.5/4 New Footprint=CAP-SMD-0805
+Change Component Comment : Designator=C10 Old Comment=1uF/16V New Comment=10uF
+Change Component Comment : Designator=C9 Old Comment=1uF/16V New Comment=104
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=106
+Added Component: Designator=C4(CAP-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3.3V Pin=C10-2
+Added Pin To Net: NetName=+5V Pin=C12-2
+Added Member To Class: ClassName=Sheet1 Member=Component C4 106
+Added Member To Class: ClassName=Sheet1 Member=Component C13 106

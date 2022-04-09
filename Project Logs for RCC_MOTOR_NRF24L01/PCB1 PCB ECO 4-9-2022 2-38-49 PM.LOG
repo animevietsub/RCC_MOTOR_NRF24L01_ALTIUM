@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+5V Pin=IC11-14
+Added Pin To Net: NetName=+3.3V Pin=IC11-14

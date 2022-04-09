@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED 5MM RED New Footprint=LED-0805
+Change Component Footprint: Designator=LED2 Old Footprint=LED 5MM RED New Footprint=LED-0805
+Change Component Footprint: Designator=LED3 Old Footprint=LED 5MM RED New Footprint=LED-0805
+Change Component Comment : Designator=LED2 Old Comment=LED New Comment=ESP-3.3V
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=POWER
+Change Component Comment : Designator=LED3 Old Comment=LED New Comment=POWER

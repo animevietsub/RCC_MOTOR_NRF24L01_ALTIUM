@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CN1 Old Footprint=Header 2P New Footprint=KF2/5.08
+Change Component Footprint: Designator=CN2 Old Footprint=Header 2P New Footprint=KF2/5.08
+Change Component Comment : Designator=CN1 Old Comment=Header New Comment=ML
+Change Component Comment : Designator=CN2 Old Comment=Header New Comment=MR
