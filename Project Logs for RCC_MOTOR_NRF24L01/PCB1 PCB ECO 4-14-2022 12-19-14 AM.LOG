@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=RCLK Pin=U1-18
+Added Pin To Net: NetName=SRCLK Pin=U1-19
+Added Pin To Net: NetName=SER Pin=U1-20
+Added Member To Class: ClassName=Sheet1 Member=Component C7 104
+Added Member To Class: ClassName=Sheet1 Member=Component C8 104
+Added Member To Class: ClassName=Sheet1 Member=Component C12 104
+Added Member To Class: ClassName=Sheet1 Member=Component C13 106
+Added Member To Class: ClassName=Sheet1 Member=Component CN1 ML
+Added Member To Class: ClassName=Sheet1 Member=Component CN2 MR
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 74HC14D
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component IC6 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component IC8 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component IC9 FOD817DSD
+Added Member To Class: ClassName=Sheet1 Member=Component M3 L298N
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 1K
