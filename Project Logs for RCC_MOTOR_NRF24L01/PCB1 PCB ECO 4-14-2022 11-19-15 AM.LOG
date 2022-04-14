@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D0 Pin=U1-24
+Removed Pin From Net: NetName=D2 Pin=U1-26
+Added Pin To Net: NetName=XCLK_CAM Pin=U1-2
+Added Pin To Net: NetName=D6 Pin=U1-3
+Added Pin To Net: NetName=D4 Pin=U1-4
+Added Pin To Net: NetName=D2 Pin=U1-5
+Added Pin To Net: NetName=D0 Pin=U1-6

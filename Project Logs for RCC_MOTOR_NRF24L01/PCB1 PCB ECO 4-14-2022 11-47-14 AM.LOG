@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=XCLK_CAM Pin=U1-2
+Removed Pin From Net: NetName=RCLK Pin=U1-18
+Removed Pin From Net: NetName=SRCLK Pin=U1-19
+Removed Pin From Net: NetName=SER Pin=U1-20
+Added Pin To Net: NetName=XCLK_CAM Pin=U1-18
+Added Pin To Net: NetName=HS Pin=U1-19
+Added Pin To Net: NetName=SDA_CAM Pin=U1-20
