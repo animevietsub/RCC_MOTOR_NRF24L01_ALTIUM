@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQQNDHAG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RCC_MOTOR_NRF24L01\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

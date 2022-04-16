@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAM_SERVO Pin=IC1-6
+Removed Pin From Net: NetName=LED Pin=IC1-7
+Added Pin To Net: NetName=LED Pin=IC1-6
+Added Pin To Net: NetName=CAM_SERVO Pin=IC1-7

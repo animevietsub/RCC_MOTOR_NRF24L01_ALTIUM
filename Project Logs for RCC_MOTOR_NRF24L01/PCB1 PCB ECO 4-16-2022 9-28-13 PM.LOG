@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_ESPU Pin=R20-2
+Change Component Comment : Designator=R25 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R26 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R27 Old Comment=1K New Comment=0R
+Added Pin To Net: NetName=V_ESPU Pin=D6-2
+Added Pin To Net: NetName=NetC20_1 Pin=R20-2
+Change Net Name : Old Net Name=NetC20_1 New Net Name=BUCK

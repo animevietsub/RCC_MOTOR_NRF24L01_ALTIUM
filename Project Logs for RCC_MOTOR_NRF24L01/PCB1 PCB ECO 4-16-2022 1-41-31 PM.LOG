@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXT_G Pin=IC7-6
+Removed Pin From Net: NetName=EXT_H Pin=IC7-7
+Added Pin To Net: NetName=EXT_H Pin=IC7-6
+Added Pin To Net: NetName=EXT_G Pin=IC7-7

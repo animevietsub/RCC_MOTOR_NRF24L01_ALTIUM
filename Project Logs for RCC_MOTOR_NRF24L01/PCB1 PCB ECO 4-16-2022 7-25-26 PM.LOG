@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5V Pin=C16-2
+Added Member To Class: ClassName=Sheet1 Member=Component C15 104
+Added Member To Class: ClassName=Sheet1 Member=Component C16 106

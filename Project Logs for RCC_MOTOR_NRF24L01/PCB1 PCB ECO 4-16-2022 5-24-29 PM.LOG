@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SCK_NRF Pin=U1-21
+Removed Pin From Net: NetName=MOSI_NRF Pin=U1-22
+Removed Pin From Net: NetName=MOSI_NRF Pin=U1-23
+Removed Pin From Net: NetName=RCLK Pin=U1-24
+Removed Pin From Net: NetName=SRCLK Pin=U1-25
+Removed Pin From Net: NetName=SER Pin=U1-26
+Removed Pin From Net: NetName=CE_NRF Pin=U1-30
+Added Pin To Net: NetName=SRCLK Pin=U1-21
+Added Pin To Net: NetName=RCLK Pin=U1-22
+Added Pin To Net: NetName=SER Pin=U1-23
+Added Pin To Net: NetName=CE_NRF Pin=U1-24
+Added Pin To Net: NetName=SCK_NRF Pin=U1-25
+Added Pin To Net: NetName=MOSI_NRF Pin=U1-26
+Added Pin To Net: NetName=MOSI_NRF Pin=U1-29
+Added Pin To Net: NetName=CSN_NRF Pin=U1-30

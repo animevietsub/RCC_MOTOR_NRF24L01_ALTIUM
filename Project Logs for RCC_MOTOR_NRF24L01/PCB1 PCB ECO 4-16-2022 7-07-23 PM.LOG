@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=CN3-2
+Removed Pin From Net: NetName=+12V Pin=CN4-1
+Added Pin To Net: NetName=V_ESPU Pin=CN3-2
+Added Pin To Net: NetName=V_ESPU Pin=CN4-1

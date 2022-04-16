@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R22 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R23 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R24 Old Comment=1K New Comment=0R
+Added Member To Class: ClassName=Sheet1 Member=Component R22 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R24 0R

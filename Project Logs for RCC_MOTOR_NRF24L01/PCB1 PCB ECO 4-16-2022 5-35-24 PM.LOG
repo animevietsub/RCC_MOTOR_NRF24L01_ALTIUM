@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MOSI_NRF Pin=U1-26
+Added Pin To Net: NetName=MISO_NRF Pin=U1-26
